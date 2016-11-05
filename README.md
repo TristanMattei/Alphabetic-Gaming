@@ -9,9 +9,9 @@ After that, the letter collected complete some word to find. To help the kid, a 
 We can add new content after that. That why we open this part to do something more open as possible to adapt the end of the game at as you want !
 
 ## The part of the project
- Create 1rst part, the game with unreal engine
- Create the part about management of word and letters
- Connect them together
- Create the part open to add new content
- Create the part open to change the end of the game
+ Create 1rst part, the game with unreal engine</br>
+ Create the part about management of word and letters</br>
+ Connect them together</br>
+ Create the part open to add new content</br>
+ Create the part open to change the end of the game</br>
  Do the documentation
