@@ -28,3 +28,6 @@ part of the project :
         - In future, we would like to open the content of the game. That's to say if you want to add math, you can make it. 
     
 - During all the project, we will make a documentation about all of things.
+
+Link to access to the board: 
+https://tristanmat.framaboard.org/?controller=BoardViewController&action=readonly&token=5eacbae93b7a9860ebb1f1163b3b3b26d083a877e4f282a68a0563f94d4c
