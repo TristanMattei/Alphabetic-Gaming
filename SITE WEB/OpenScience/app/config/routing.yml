@@ -1,0 +1,7 @@
+open_science:
+    resource: "@OpenScienceBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
