@@ -1,0 +1,1198 @@
+﻿Log file open, 12/10/16 13:00:04
+LogInit:Display: Running engine for game: DEMO
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(425334520) SRandInit(425334520).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.123703
+LogPluginManager: Loaded Plugin Paper2D, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/PROGRAMME/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/PROGRAMME/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.12.10-12.00.04:610][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.10-12.00.04:610][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.12.10-12.00.04:652][  0]LogInit: Computer: SEBASTIEN
+[2016.12.10-12.00.04:652][  0]LogInit: User: LaFaucheuse
+[2016.12.10-12.00.04:652][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.12.10-12.00.04:652][  0]LogInit: High frequency timer resolution =2.531255 MHz
+[2016.12.10-12.00.04:654][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2016.12.10-12.00.04:654][  0]LogMemory: Platform Memory Stats for Windows
+[2016.12.10-12.00.04:654][  0]LogMemory: Process Physical Memory: 254.31 MB used, 254.31 MB peak
+[2016.12.10-12.00.04:654][  0]LogMemory: Process Virtual Memory: 259.76 MB used, 259.76 MB peak
+[2016.12.10-12.00.04:654][  0]LogMemory: Physical Memory: 3115.61 MB used, 8065.80 MB total
+[2016.12.10-12.00.04:654][  0]LogMemory: Virtual Memory: 606.15 MB used, 134217728.00 MB total
+[2016.12.10-12.00.04:716][  0]LogTextLocalizationManager: No translations for ('fr-FR') exist, falling back to 'en' for localization and internationalization data.
+[2016.12.10-12.00.06:481][  0]LogD3D11RHI: D3D11 adapters:
+[2016.12.10-12.00.06:536][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970M' (Feature Level 11_0)
+[2016.12.10-12.00.06:536][  0]LogD3D11RHI:       2976/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2016.12.10-12.00.06:552][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2016.12.10-12.00.06:552][  0]LogD3D11RHI:       128/0/3840 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2016.12.10-12.00.06:556][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2016.12.10-12.00.06:556][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2016.12.10-12.00.06:556][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.12.10-12.00.06:564][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.12.10-12.00.06:564][  0]LogD3D11RHI:     GPU DeviceId: 0x13d8 (for the marketing name, search the web for "GPU Device Id")
+[2016.12.10-12.00.06:564][  0]LogWindows: EnumDisplayDevices:
+[2016.12.10-12.00.06:565][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2016.12.10-12.00.06:565][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2016.12.10-12.00.06:565][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2016.12.10-12.00.06:565][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2016.12.10-12.00.06:565][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970M
+[2016.12.10-12.00.06:566][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2016.12.10-12.00.06:566][  0]LogD3D11RHI:      Driver Date: Unknown
+[2016.12.10-12.00.06:566][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.12.10-12.00.06:592][  0]LogD3D11RHI: Async texture creation enabled
+[2016.12.10-12.00.06:618][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.12.10-12.00.06:619][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Intermediate/Shaders/WorkingDirectory/5496/).
+[2016.12.10-12.00.06:619][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/LAFAUC~1/AppData/Local/Temp/UnrealShaderWorkingDir/257454454819DB760932F58071B6E509/'.
+[2016.12.10-12.00.06:619][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.12.10-12.00.09:399][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.12.10-12.00.09:421][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.12.10-12.00.09:443][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.12.10-12.00.09:465][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.12.10-12.00.09:485][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.12.10-12.00.09:506][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.12.10-12.00.09:525][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.12.10-12.00.09:545][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.12.10-12.00.09:564][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.12.10-12.00.09:586][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.12.10-12.00.09:607][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.12.10-12.00.09:646][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.12.10-12.00.09:646][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.12.10-12.00.09:648][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.12.10-12.00.09:683][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.12.10-12.00.09:704][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.12.10-12.00.09:724][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.12.10-12.00.09:744][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.12.10-12.00.09:763][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.12.10-12.00.09:783][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.12.10-12.00.09:783][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.12.10-12.00.09:918][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.12.10-12.00.10:096][  0]LogDerivedDataCache: Loaded boot cache 0.18s 62MB C:/Users/LaFaucheuse/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.10-12.00.10:096][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/LaFaucheuse/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.12.10-12.00.10:096][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.12.10-12.00.10:096][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.12.10-12.00.10:096][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.12.10-12.00.10:096][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.12.10-12.00.10:152][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.12.10-12.00.10:166][  0]LogDerivedDataCache: Using Local data cache path C:/Users/LaFaucheuse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.12.10-12.00.10:701][  0]LogInit: Selected Device Profile: [Windows]
+[2016.12.10-12.00.10:706][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.12.10-12.00.10:964][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.12.10-12.00.10:964][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.12.10-12.00.10:964][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.12.10-12.00.11:196][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.12.10-12.00.12:089][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: demo, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 3803809935
+[2016.12.10-12.00.12:156][  0]LogAssetRegistry: FAssetRegistry took 0.0225 seconds to start up
+[2016.12.10-12.00.12:203][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.039843 seconds
+[2016.12.10-12.00.12:219][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2016.12.10-12.00.12:219][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2016.12.10-12.00.12:219][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.12.10-12.00.12:230][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.12.10-12.00.12:778][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.10-12.00.12:778][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.12.10-12.00.14:428][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2016.12.10-12.00.14:456][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.12.10-12.00.14:963][  0]SourceControl: Info Source control is disabled
+[2016.12.10-12.00.14:966][  0]SourceControl: Info Source control is disabled
+[2016.12.10-12.00.14:981][  0]SourceControl: Info Source control is disabled
+[2016.12.10-12.00.14:995][  0]SourceControl: Info Source control is disabled
+[2016.12.10-12.00.15:531][  0]LogEngine: Initializing Engine...
+[2016.12.10-12.00.15:532][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.12.10-12.00.15:966][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.12.10-12.00.15:990][  0]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.10-12.00.16:146][  0]LogInit: FAudioDevice initialized.
+[2016.12.10-12.00.16:222][  0]LogDerivedDataCache: Saved boot cache 0.08s 62MB C:/Users/LaFaucheuse/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.12.10-12.00.16:250][  0]LogInit: Texture streaming: Enabled
+[2016.12.10-12.00.16:298][  0]LogInit: Transaction tracking system initialized
+[2016.12.10-12.00.16:336][  0]BlueprintLog: New page: Editor Load
+[2016.12.10-12.00.16:468][  0]LocalizationService: Info Localization service is disabled
+[2016.12.10-12.00.17:316][  0]LogConsoleResponse:Display: 
+[2016.12.10-12.00.17:630][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.12.10-12.00.17:630][  0]LogCook:Display: Mobile HDR setting 1
+[2016.12.10-12.00.17:724][  0]LogFileCache: Scanning file cache for directory 'D:/[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/' took 0.03s
+[2016.12.10-12.00.17:904][  0]SourceControl: Info Source control is disabled
+[2016.12.10-12.00.17:904][  0]Cmd: MAP LOAD FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.12.10-12.00.17:905][  0]LightingResults: New page: Lighting Build
+[2016.12.10-12.00.17:909][  0]MapCheck: New page: Map Check
+[2016.12.10-12.00.17:909][  0]LightingResults: New page: Lighting Build
+[2016.12.10-12.00.18:536][  0]LogBlueprint:Warning: [A] 'tabLettre' variable not found. Base class was probably changed.
+[2016.12.10-12.00.18:546][  0]LogBlueprint:Warning: [Compiler A] Warning Could not find a variable named "tabLettre" in 'FirstPersonCharacter_C'.
+Make sure 'FirstPersonCharacter_C' has been compiled for  K2Node_VariableGet_16
+[2016.12.10-12.00.18:550][  0]LogBlueprint:Error: [Compiler A] Error The property associated with  tabLettre  could not be found
+[2016.12.10-12.00.18:563][  0]LogBlueprint:Warning: [Compiler A] Warning [0016.09] Compile of A failed. 1 Fatal Issue(s) 1 Warning(s) [in 24 ms] (/Game/Blueprints/A.A)
+[2016.12.10-12.00.18:563][  0]LogBlueprint:Warning: [Compiler A] Warning [0016.09] Compile of A failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/Blueprints/A.A)
+[2016.12.10-12.00.18:563][  0]LogBlueprint:Warning: [Compiler A] Warning [0016.09] Compile of A failed. 1 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/Blueprints/A.A)
+[2016.12.10-12.00.20:291][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.00.20:319][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.12.10-12.00.20:320][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.12.10-12.00.20:430][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 110.555ms to complete.
+[2016.12.10-12.00.20:431][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.528
+[2016.12.10-12.00.20:826][  0]LogCollectionManager: Loaded 0 collections in 0.002606 seconds
+[2016.12.10-12.00.20:878][  0]LogFileCache: Scanning file cache for directory 'D:/[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/Collections/' took 0.01s
+[2016.12.10-12.00.20:878][  0]LogFileCache: Scanning file cache for directory 'D:/[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Developers/LaFaucheuse/Collections/' took 0.01s
+[2016.12.10-12.00.20:878][  0]LogFileCache: Scanning file cache for directory 'D:/[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Collections/' took 0.01s
+[2016.12.10-12.00.20:878][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000008 seconds
+[2016.12.10-12.00.20:907][  0]LogContentBrowser: Native class hierarchy populated in 0.0288 seconds. Added 2141 classes and 415 folders.
+[2016.12.10-12.00.20:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.12.10-12.00.20:914][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.12.10-12.00.20:916][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0016 seconds. Added 12 classes and 0 folders.
+[2016.12.10-12.00.20:924][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2016.12.10-12.00.22:092][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2016.12.10-12.00.22:110][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2016.12.10-12.00.22:148][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.12.10-12.00.22:200][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.12.10-12.00.22:238][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0021 seconds. Added 1 classes and 2 folders.
+[2016.12.10-12.00.22:239][  0]LogLoad: (Engine Initialization) Total time: 19.77 seconds
+[2016.12.10-12.00.22:240][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.58 seconds
+[2016.12.10-12.00.22:240][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2016.12.10-12.00.22:250][  0]LogOcInput: OculusInput pre-init called
+[2016.12.10-12.00.22:297][  0]LogContentStreaming: Texture pool size now 800 MB
+[2016.12.10-12.00.22:852][  2]LogRenderer: Reallocating scene render targets to support 652x388 (Frame:2).
+[2016.12.10-12.00.23:074][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2016.12.10-12.00.23:353][  4]LogAssetRegistry: Asset discovery search completed in 11.2196 seconds
+[2016.12.10-12.00.23:353][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2016.12.10-12.00.25:302][103]LogRenderer: Reallocating scene render targets to support 952x576 (Frame:60).
+[2016.12.10-12.01.25:505][515]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 112 classes and 0 folders.
+[2016.12.10-12.03.31:214][361]BlueprintLog: New page: Compile A
+[2016.12.10-12.03.31:255][361]LogBlueprint:Error: [Compiler A] Error  tabLettre  of type Array of Strings doesn't match the property tabLettre of type Array of Class Blueprints Editor Overview Class
+[2016.12.10-12.03.32:123][361]BlueprintEditorCompileResults:Error: Error  tabLettre  of type Array of Strings doesn't match the property tabLettre of type Array of Class Blueprints Editor Overview Class
+[2016.12.10-12.03.32:124][361]LogBlueprint:Warning: [Compiler A] Warning [0209.65] Compile of A failed. 1 Fatal Issue(s) 0 Warning(s) [in 910 ms] (/Game/Blueprints/A.A)
+[2016.12.10-12.04.09:492][591]BlueprintLog: New page: Compile A
+[2016.12.10-12.04.09:532][591]LogBlueprint:Error: [Compiler A] Error  tabLettre  of type Array of Strings doesn't match the property tabLettre of type Array of Class Blueprints Editor Overview Class
+[2016.12.10-12.04.09:921][591]BlueprintEditorCompileResults:Error: Error  tabLettre  of type Array of Strings doesn't match the property tabLettre of type Array of Class Blueprints Editor Overview Class
+[2016.12.10-12.04.09:921][591]LogBlueprint:Warning: [Compiler A] Warning [0247.45] Compile of A failed. 1 Fatal Issue(s) 0 Warning(s) [in 428 ms] (/Game/Blueprints/A.A)
+[2016.12.10-12.04.41:815][599]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.12.10-12.04.49:705][759]BlueprintLog: New page: Compile A
+[2016.12.10-12.05.01:472][133]BlueprintLog: New page: Compile A
+[2016.12.10-12.05.41:950][349]LogHttp:Warning: 000000BCA4D67880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2016.12.10-12.05.41:950][349]LogHttp:Warning: 000000BCA4D67880: libcurl info message cache 1 (Connection 3 seems to be dead!)
+[2016.12.10-12.05.41:950][349]LogHttp:Warning: 000000BCA4D67880: libcurl info message cache 2 (Closing connection 3)
+[2016.12.10-12.05.41:950][349]LogHttp:Warning: 000000BCA4D67880: libcurl info message cache 3 (schannel: shutting down SSL/TLS connection with datarouter.ol.epicgames.com port 443)
+[2016.12.10-12.05.41:950][349]LogHttp:Warning: 000000BCA4D67880: libcurl info message cache 4 (Send failure: Connection was reset)
+[2016.12.10-12.05.41:950][349]LogHttp:Warning: 000000BCA4D67880: libcurl info message cache 5 (schannel: failed to send close msg: Failed sending data to the peer (bytes written: -1))
+[2016.12.10-12.05.41:950][349]LogHttp:Warning: 000000BCA4D67880: libcurl info message cache 6 (schannel: clear security context handle)
+[2016.12.10-12.05.41:950][349]LogHttp:Warning: 000000BCA4D67880: libcurl info message cache 7 (schannel: decremented credential handle refcount = 0)
+[2016.12.10-12.05.41:950][349]LogHttp:Warning: 000000BCA4D67880: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2016.12.10-12.05.41:950][349]LogHttp:Warning: 000000BCA4D67880: libcurl info message cache 9 (Closing connection 4)
+[2016.12.10-12.05.46:550][504]BlueprintLog: New page: Compile T
+[2016.12.10-12.06.07:163][988]LogSavePackage: Save=4577.58ms
+[2016.12.10-12.06.07:163][988]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/FirstPersonExampleMapF64707F1414C63DB5DD540959FE693B1.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2016.12.10-12.06.07:182][988]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2016.12.10-12.06.07:269][988]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 4.939
+[2016.12.10-12.06.07:591][988]LogSavePackage: Save=247.07ms
+[2016.12.10-12.06.07:592][988]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/FirstPersonCharacterDB2CE71841B159C1136CB1A34DC693FE.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2016.12.10-12.06.07:597][988]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2016.12.10-12.06.07:651][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/A" FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/A.uasset" SILENT=true
+[2016.12.10-12.06.07:791][988]LogSavePackage: Save=115.22ms
+[2016.12.10-12.06.07:791][988]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/A05C57F4348461049B2146F98FADBC9B4.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/A.uasset'
+[2016.12.10-12.06.07:797][988]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/A.uasset
+[2016.12.10-12.06.07:845][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/E" FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/E.uasset" SILENT=true
+[2016.12.10-12.06.08:013][988]LogSavePackage: Save=148.65ms
+[2016.12.10-12.06.08:014][988]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/E8DCF9E0A40C44CD2DD40EBB9754D74A4.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/E.uasset'
+[2016.12.10-12.06.08:019][988]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/E.uasset
+[2016.12.10-12.06.08:072][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/T" FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/T.uasset" SILENT=true
+[2016.12.10-12.06.08:193][988]LogSavePackage: Save=100.26ms
+[2016.12.10-12.06.08:193][988]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/TA06D25E2466E06A4741883825DC9048F.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/T.uasset'
+[2016.12.10-12.06.08:198][988]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/T.uasset
+[2016.12.10-12.06.24:356][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/S" FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/S.uasset" SILENT=true
+[2016.12.10-12.06.24:459][499]LogSavePackage: Save=85.88ms
+[2016.12.10-12.06.24:459][499]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/SC6C5000C4E60ECBF10C45D868E0B7388.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/S.uasset'
+[2016.12.10-12.06.24:464][499]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/S.uasset
+[2016.12.10-12.06.29:613][671]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.12.10-12.06.30:517][697]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.12.10-12.06.31:812][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.12.10-12.06.34:663][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.06.34:664][817]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.10-12.06.34:664][817]LogPlayLevel: [PlayLevel] Compiling E before play...
+[2016.12.10-12.06.34:904][817]LogPlayLevel: [PlayLevel] Compiling S before play...
+[2016.12.10-12.06.35:198][817]LogPlayLevel: PlayLevel: Blueprint regeneration took 535 ms (2 blueprints)
+[2016.12.10-12.06.35:199][817]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:06:35 PM)
+[2016.12.10-12.06.35:199][817]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.06.35:258][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058764s)
+[2016.12.10-12.06.35:260][817]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.06.35:261][817]LogPlayLevel: PIE: World Init took: (0.002628s)
+[2016.12.10-12.06.35:261][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.062071s)
+[2016.12.10-12.06.35:321][817]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.10-12.06.35:384][817]LogInit: FAudioDevice initialized.
+[2016.12.10-12.06.35:488][817]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.06.35:500][817]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.06.35
+[2016.12.10-12.06.35:502][817]LogWorld: Bringing up level for play took: 0.009478
+[2016.12.10-12.06.35:514][817]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2016.12.10-12.06.35:514][817]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.06.35:514][817]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.06.35:514][817]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.06.35:519][817]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.06.35:519][817]LogScriptCore:Warning: 
+[2016.12.10-12.06.35:519][817]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.06.35:520][817]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.871
+[2016.12.10-12.06.35:520][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.06.44:010][106]LogBlueprintUserMessages: [T_C_1] FirstPersonProjectile_C_5
+[2016.12.10-12.06.44:246][114]LogBlueprintUserMessages: [T_C_1] FirstPersonProjectile_C_6
+[2016.12.10-12.06.48:644][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.06.48:834][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.16.26:981][657]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.12.10-12.16.37:047][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.16.37:047][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.10-12.16.37:048][937]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:16:37 PM)
+[2016.12.10-12.16.37:048][937]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.16.37:112][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064614s)
+[2016.12.10-12.16.37:115][937]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.16.37:116][937]LogPlayLevel: PIE: World Init took: (0.003461s)
+[2016.12.10-12.16.37:116][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.068712s)
+[2016.12.10-12.16.37:175][937]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.10-12.16.37:238][937]LogInit: FAudioDevice initialized.
+[2016.12.10-12.16.37:369][937]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.16.37:381][937]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.16.37
+[2016.12.10-12.16.37:382][937]LogWorld: Bringing up level for play took: 0.009852
+[2016.12.10-12.16.37:384][937]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.16.37:384][937]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.16.37:384][937]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.16.37:388][937]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.16.37:388][937]LogScriptCore:Warning: 
+[2016.12.10-12.16.37:388][937]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.16.37:409][937]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.761
+[2016.12.10-12.16.37:410][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.16.37:470][937]LogRenderer: Reallocating scene render targets to support 1124x656 (Frame:9247).
+[2016.12.10-12.16.46:321][149]LogBlueprintUserMessages: [E_C_0] FirstPersonProjectile_C_1
+[2016.12.10-12.16.46:441][152]LogBlueprintUserMessages: [E_C_0] FirstPersonProjectile_C_2
+[2016.12.10-12.16.53:716][333]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [3/2]!
+[2016.12.10-12.16.53:717][333]LogScriptCore:Warning: 
+[2016.12.10-12.16.54:711][358]LogScriptCore:Warning: Script Msg: Attempted to access index 3 from array tabLettre of length 3!
+[2016.12.10-12.16.54:711][358]LogScriptCore:Warning: 
+[2016.12.10-12.16.55:428][376]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [3/2]!
+[2016.12.10-12.16.55:428][376]LogScriptCore:Warning: 
+[2016.12.10-12.16.56:075][392]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [3/2]!
+[2016.12.10-12.16.56:075][392]LogScriptCore:Warning: 
+[2016.12.10-12.16.56:670][407]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.16.57:280][422]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.16.57:681][432]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.18.12:232][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2016.12.10-12.18.12:398][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.18.12:547][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.18.55:671][ 62]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.18.55:672][ 62]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.10-12.18.55:672][ 62]LogPlayLevel: [PlayLevel] Compiling A before play...
+[2016.12.10-12.18.55:990][ 62]LogPlayLevel: PlayLevel: Blueprint regeneration took 318 ms (1 blueprints)
+[2016.12.10-12.18.55:991][ 62]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:18:55 PM)
+[2016.12.10-12.18.55:991][ 62]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.18.56:087][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094839s)
+[2016.12.10-12.18.56:089][ 62]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.18.56:090][ 62]LogPlayLevel: PIE: World Init took: (0.003457s)
+[2016.12.10-12.18.56:091][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.099117s)
+[2016.12.10-12.18.56:141][ 62]LogInit: XAudio2 using 'HeadPhone/Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.12.10-12.18.56:208][ 62]LogInit: FAudioDevice initialized.
+[2016.12.10-12.18.56:260][ 62]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.18.56:273][ 62]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.18.56
+[2016.12.10-12.18.56:274][ 62]LogWorld: Bringing up level for play took: 0.010728
+[2016.12.10-12.18.56:276][ 62]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.18.56:276][ 62]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.18.56:276][ 62]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.18.56:280][ 62]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.18.56:280][ 62]LogScriptCore:Warning: 
+[2016.12.10-12.18.56:280][ 62]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.18.56:280][ 62]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.368
+[2016.12.10-12.18.56:281][ 62]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.19.05:228][404]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-934.034 Y=874.951 Z=249.808] for [FirstPersonProjectile_C]
+[2016.12.10-12.19.05:359][409]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-908.263 Y=814.961 Z=207.054] for [FirstPersonProjectile_C]
+[2016.12.10-12.19.05:543][416]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-902.346 Y=794.486 Z=208.478] for [FirstPersonProjectile_C]
+[2016.12.10-12.19.11:933][670]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [2/1]!
+[2016.12.10-12.19.11:933][670]LogScriptCore:Warning: 
+[2016.12.10-12.19.12:378][688]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array tabLettre of length 2!
+[2016.12.10-12.19.12:378][688]LogScriptCore:Warning: 
+[2016.12.10-12.19.13:750][742]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.19.22:389][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.19.22:449][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.19.51:941][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.12.10-12.20.28:013][994]LogSavePackage: Save=4424.91ms
+[2016.12.10-12.20.28:013][994]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/FirstPersonExampleMap8BF5C79A4A2EC95D3BDBD88B5C92F4DE.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2016.12.10-12.20.28:022][994]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2016.12.10-12.20.28:080][994]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 5.115
+[2016.12.10-12.20.28:332][994]LogSavePackage: Save=207.76ms
+[2016.12.10-12.20.28:332][994]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/FirstPersonCharacter87F72B73430889A6F3B413B16E24AE6B.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2016.12.10-12.20.28:338][994]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2016.12.10-12.20.28:378][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/A" FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/A.uasset" SILENT=true
+[2016.12.10-12.20.28:500][994]LogSavePackage: Save=101.32ms
+[2016.12.10-12.20.28:500][994]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/A02CD5CB94904115A10A067B9A6575057.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/A.uasset'
+[2016.12.10-12.20.28:505][994]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/A.uasset
+[2016.12.10-12.20.28:547][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/E" FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/E.uasset" SILENT=true
+[2016.12.10-12.20.28:662][994]LogSavePackage: Save=94.51ms
+[2016.12.10-12.20.28:662][994]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/E3508EF684A362446582E7DA878EE6091.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/E.uasset'
+[2016.12.10-12.20.28:667][994]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/E.uasset
+[2016.12.10-12.20.49:714][635]BlueprintLog: New page: Compile T
+[2016.12.10-12.20.55:746][801]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.20.55:747][801]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.10-12.20.55:747][801]LogPlayLevel: [PlayLevel] Compiling E before play...
+[2016.12.10-12.20.56:034][801]LogPlayLevel: [PlayLevel] Compiling S before play...
+[2016.12.10-12.20.56:356][801]LogPlayLevel: PlayLevel: Blueprint regeneration took 609 ms (2 blueprints)
+[2016.12.10-12.20.56:357][801]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:20:56 PM)
+[2016.12.10-12.20.56:357][801]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.20.56:426][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068217s)
+[2016.12.10-12.20.56:429][801]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.20.56:430][801]LogPlayLevel: PIE: World Init took: (0.004497s)
+[2016.12.10-12.20.56:431][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.073341s)
+[2016.12.10-12.20.56:491][801]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-12.20.56:655][801]LogInit: FAudioDevice initialized.
+[2016.12.10-12.20.56:696][801]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.20.56:708][801]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.20.56
+[2016.12.10-12.20.56:709][801]LogWorld: Bringing up level for play took: 0.009984
+[2016.12.10-12.20.56:711][801]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.20.56:711][801]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.20.56:711][801]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.20.56:715][801]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.20.56:715][801]LogScriptCore:Warning: 
+[2016.12.10-12.20.56:715][801]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.20.56:715][801]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.067
+[2016.12.10-12.20.56:716][801]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.21.04:594][ 71]LogBlueprintUserMessages: [E_C_0] E
+[2016.12.10-12.21.07:243][163]LogBlueprintUserMessages: [T_C_1] E
+[2016.12.10-12.21.07:244][163]LogBlueprintUserMessages: [T_C_1] T
+[2016.12.10-12.21.08:803][216]LogBlueprintUserMessages: [T_C_0] E
+[2016.12.10-12.21.08:803][216]LogBlueprintUserMessages: [T_C_0] T
+[2016.12.10-12.21.08:803][216]LogBlueprintUserMessages: [T_C_0] T
+[2016.12.10-12.21.12:733][355]LogBlueprintUserMessages: [S_C_0] E
+[2016.12.10-12.21.12:733][355]LogBlueprintUserMessages: [S_C_0] T
+[2016.12.10-12.21.12:733][355]LogBlueprintUserMessages: [S_C_0] T
+[2016.12.10-12.21.12:733][355]LogBlueprintUserMessages: [S_C_0] S
+[2016.12.10-12.21.16:790][498]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array tabLettre of length 4!
+[2016.12.10-12.21.16:790][498]LogScriptCore:Warning: 
+[2016.12.10-12.21.21:535][668]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array tabLettre of length 1!
+[2016.12.10-12.21.21:536][668]LogScriptCore:Warning: 
+[2016.12.10-12.21.22:100][688]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array tabLettre of length 1!
+[2016.12.10-12.21.22:100][688]LogScriptCore:Warning: 
+[2016.12.10-12.21.22:697][709]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array tabLettre of length 1!
+[2016.12.10-12.21.22:697][709]LogScriptCore:Warning: 
+[2016.12.10-12.21.23:066][722]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array tabLettre of length 1!
+[2016.12.10-12.21.23:066][722]LogScriptCore:Warning: 
+[2016.12.10-12.21.23:649][742]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [1/0]!
+[2016.12.10-12.21.23:650][742]LogScriptCore:Warning: 
+[2016.12.10-12.21.24:714][779]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_1
+[2016.12.10-12.21.25:414][803]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_3
+[2016.12.10-12.21.25:618][810]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_4
+[2016.12.10-12.21.25:820][817]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_5
+[2016.12.10-12.21.25:996][823]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_6
+[2016.12.10-12.21.26:142][828]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_7
+[2016.12.10-12.21.26:270][832]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_8
+[2016.12.10-12.21.26:427][838]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_9
+[2016.12.10-12.21.26:584][844]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_10
+[2016.12.10-12.21.26:775][851]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_11
+[2016.12.10-12.21.26:921][856]LogBlueprintUserMessages: [E_C_1] FirstPersonProjectile_C_12
+[2016.12.10-12.21.27:473][875]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.21.27:575][875]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.23.19:048][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.23.19:048][268]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.10-12.23.19:049][268]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2016.12.10-12.23.19:746][268]LogPlayLevel: PlayLevel: Blueprint regeneration took 698 ms (1 blueprints)
+[2016.12.10-12.23.19:746][268]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:23:19 PM)
+[2016.12.10-12.23.19:746][268]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.23.19:805][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057761s)
+[2016.12.10-12.23.19:807][268]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.23.19:808][268]LogPlayLevel: PIE: World Init took: (0.002517s)
+[2016.12.10-12.23.19:808][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.060851s)
+[2016.12.10-12.23.19:868][268]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-12.23.20:010][268]LogInit: FAudioDevice initialized.
+[2016.12.10-12.23.20:066][268]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.23.20:079][268]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.23.20
+[2016.12.10-12.23.20:080][268]LogWorld: Bringing up level for play took: 0.010829
+[2016.12.10-12.23.20:083][268]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.23.20:083][268]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.23.20:083][268]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.23.20:087][268]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.23.20:087][268]LogScriptCore:Warning: 
+[2016.12.10-12.23.20:087][268]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.23.20:093][268]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.445
+[2016.12.10-12.23.20:093][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.23.25:942][417]LogBlueprintUserMessages: [T_C_1] T
+[2016.12.10-12.23.28:193][480]LogBlueprintUserMessages: [T_C_0] T
+[2016.12.10-12.23.28:193][480]LogBlueprintUserMessages: [T_C_0] T
+[2016.12.10-12.23.30:690][549]LogBlueprintUserMessages: [S_C_0] FirstPersonProjectile_C_3
+[2016.12.10-12.23.30:877][554]LogBlueprintUserMessages: [S_C_0] FirstPersonProjectile_C_4
+[2016.12.10-12.23.31:070][559]LogBlueprintUserMessages: [S_C_0] FirstPersonProjectile_C_5
+[2016.12.10-12.23.31:858][581]LogBlueprintUserMessages: [S_C_0] T
+[2016.12.10-12.23.31:858][581]LogBlueprintUserMessages: [S_C_0] T
+[2016.12.10-12.23.31:858][581]LogBlueprintUserMessages: [S_C_0] S
+[2016.12.10-12.23.58:555][298]LogBlueprintUserMessages: [E_C_0] T
+[2016.12.10-12.23.58:555][298]LogBlueprintUserMessages: [E_C_0] T
+[2016.12.10-12.23.58:555][298]LogBlueprintUserMessages: [E_C_0] S
+[2016.12.10-12.23.58:555][298]LogBlueprintUserMessages: [E_C_0] E
+[2016.12.10-12.24.01:481][379]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array tabLettre of length 4!
+[2016.12.10-12.24.01:481][379]LogScriptCore:Warning: 
+[2016.12.10-12.24.02:051][395]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.24.02:051][395]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.24.02:051][395]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.05:658][497]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.24.05:658][497]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.08:893][588]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array tabLettre of length 2!
+[2016.12.10-12.24.08:893][588]LogScriptCore:Warning: 
+[2016.12.10-12.24.09:679][612]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [2/1]!
+[2016.12.10-12.24.09:679][612]LogScriptCore:Warning: 
+[2016.12.10-12.24.09:680][612]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.24.09:680][612]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.12:360][687]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array tabLettre of length 2!
+[2016.12.10-12.24.12:360][687]LogScriptCore:Warning: 
+[2016.12.10-12.24.12:888][702]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array tabLettre of length 2!
+[2016.12.10-12.24.12:888][702]LogScriptCore:Warning: 
+[2016.12.10-12.24.13:427][717]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [2/1]!
+[2016.12.10-12.24.13:427][717]LogScriptCore:Warning: 
+[2016.12.10-12.24.13:427][717]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.24.13:427][717]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.14:149][737]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.24.14:588][749]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.24.15:009][761]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.24.15:446][773]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.24.19:033][873]LogBlueprintUserMessages: [S_C_2] S
+[2016.12.10-12.24.19:033][873]LogBlueprintUserMessages: [S_C_2] E
+[2016.12.10-12.24.19:033][873]LogBlueprintUserMessages: [S_C_2] S
+[2016.12.10-12.24.19:536][887]LogBlueprintUserMessages: [E_C_2] S
+[2016.12.10-12.24.19:536][887]LogBlueprintUserMessages: [E_C_2] E
+[2016.12.10-12.24.19:536][887]LogBlueprintUserMessages: [E_C_2] S
+[2016.12.10-12.24.19:536][887]LogBlueprintUserMessages: [E_C_2] E
+[2016.12.10-12.24.19:863][896]LogBlueprintUserMessages: [E_C_1] S
+[2016.12.10-12.24.19:863][896]LogBlueprintUserMessages: [E_C_1] E
+[2016.12.10-12.24.19:863][896]LogBlueprintUserMessages: [E_C_1] S
+[2016.12.10-12.24.19:863][896]LogBlueprintUserMessages: [E_C_1] E
+[2016.12.10-12.24.19:864][896]LogBlueprintUserMessages: [E_C_1] E
+[2016.12.10-12.24.20:389][909]LogBlueprintUserMessages: [S_C_1] S
+[2016.12.10-12.24.20:389][909]LogBlueprintUserMessages: [S_C_1] E
+[2016.12.10-12.24.20:389][909]LogBlueprintUserMessages: [S_C_1] S
+[2016.12.10-12.24.20:389][909]LogBlueprintUserMessages: [S_C_1] E
+[2016.12.10-12.24.20:389][909]LogBlueprintUserMessages: [S_C_1] E
+[2016.12.10-12.24.20:389][909]LogBlueprintUserMessages: [S_C_1] S
+[2016.12.10-12.24.24:074][ 12]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.24.24:074][ 12]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.24:074][ 12]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.24:074][ 12]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.24:074][ 12]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.24.25:932][ 63]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.25:932][ 63]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.25:932][ 63]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.25:932][ 63]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.24.27:399][104]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.27:400][104]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.27:400][104]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.28:484][134]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.28:484][134]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.24.29:264][156]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.24.30:083][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.24.30:286][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.25.10:119][693]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.12.10-12.25.14:318][770]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.25.14:318][770]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.10-12.25.14:318][770]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:25:14 PM)
+[2016.12.10-12.25.14:319][770]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.25.14:363][770]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044402s)
+[2016.12.10-12.25.14:367][770]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.25.14:368][770]LogPlayLevel: PIE: World Init took: (0.005036s)
+[2016.12.10-12.25.14:368][770]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.050038s)
+[2016.12.10-12.25.14:432][770]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-12.25.14:576][770]LogInit: FAudioDevice initialized.
+[2016.12.10-12.25.14:664][770]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.25.14:676][770]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.25.14
+[2016.12.10-12.25.14:677][770]LogWorld: Bringing up level for play took: 0.009457
+[2016.12.10-12.25.14:679][770]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.25.14:679][770]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.25.14:679][770]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.25.14:683][770]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.25.14:683][770]LogScriptCore:Warning: 
+[2016.12.10-12.25.14:683][770]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.25.14:703][770]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.055
+[2016.12.10-12.25.14:704][770]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.25.19:222][903]LogBlueprintUserMessages: [S_C_0] S
+[2016.12.10-12.25.20:965][958]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array tabLettre of length 1!
+[2016.12.10-12.25.20:965][958]LogScriptCore:Warning: 
+[2016.12.10-12.25.22:187][997]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array tabLettre of length 1!
+[2016.12.10-12.25.22:187][997]LogScriptCore:Warning: 
+[2016.12.10-12.25.22:865][ 18]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.25.23:129][ 26]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.25.25:320][ 94]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.25.27:759][171]LogBlueprintUserMessages: [S_C_1] S
+[2016.12.10-12.25.29:106][213]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [1/0]!
+[2016.12.10-12.25.29:106][213]LogScriptCore:Warning: 
+[2016.12.10-12.25.29:107][213]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.25.31:254][281]LogBlueprintUserMessages: [S_C_2] S
+[2016.12.10-12.25.31:255][281]LogBlueprintUserMessages: [S_C_2] S
+[2016.12.10-12.25.33:639][355]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.25.34:525][383]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.25.37:334][471]LogBlueprintUserMessages: [S_C_3] S
+[2016.12.10-12.25.37:334][471]LogBlueprintUserMessages: [S_C_3] S
+[2016.12.10-12.25.39:256][532]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.25.39:388][536]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.25.39:637][544]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.25.39:794][549]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.25.40:016][556]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.25.41:090][590]LogBlueprintUserMessages: [S_C_4] S
+[2016.12.10-12.25.41:090][590]LogBlueprintUserMessages: [S_C_4] S
+[2016.12.10-12.25.42:917][647]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.25.44:439][695]LogBlueprintUserMessages: [S_C_5] S
+[2016.12.10-12.25.44:439][695]LogBlueprintUserMessages: [S_C_5] S
+[2016.12.10-12.25.45:950][742]LogBlueprintUserMessages: [E_C_0] S
+[2016.12.10-12.25.45:950][742]LogBlueprintUserMessages: [E_C_0] S
+[2016.12.10-12.25.45:950][742]LogBlueprintUserMessages: [E_C_0] E
+[2016.12.10-12.25.47:654][795]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.25.47:654][795]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.25.49:092][840]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [2/1]!
+[2016.12.10-12.25.49:092][840]LogScriptCore:Warning: 
+[2016.12.10-12.25.49:092][840]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.25.49:092][840]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.25.50:148][873]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.25.51:645][920]LogBlueprintUserMessages: [S_C_6] S
+[2016.12.10-12.25.51:645][920]LogBlueprintUserMessages: [S_C_6] E
+[2016.12.10-12.25.51:645][920]LogBlueprintUserMessages: [S_C_6] S
+[2016.12.10-12.25.52:488][946]LogBlueprintUserMessages: [E_C_1] S
+[2016.12.10-12.25.52:488][946]LogBlueprintUserMessages: [E_C_1] E
+[2016.12.10-12.25.52:488][946]LogBlueprintUserMessages: [E_C_1] S
+[2016.12.10-12.25.52:488][946]LogBlueprintUserMessages: [E_C_1] E
+[2016.12.10-12.25.55:205][ 31]LogBlueprintUserMessages: [T_C_1] S
+[2016.12.10-12.25.55:205][ 31]LogBlueprintUserMessages: [T_C_1] E
+[2016.12.10-12.25.55:205][ 31]LogBlueprintUserMessages: [T_C_1] S
+[2016.12.10-12.25.55:206][ 31]LogBlueprintUserMessages: [T_C_1] E
+[2016.12.10-12.25.55:206][ 31]LogBlueprintUserMessages: [T_C_1] T
+[2016.12.10-12.25.56:663][ 77]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.25.56:663][ 77]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.25.56:663][ 77]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.25.56:663][ 77]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.25.58:322][130]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [4/3]!
+[2016.12.10-12.25.58:322][130]LogScriptCore:Warning: 
+[2016.12.10-12.25.58:322][130]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.25.58:323][130]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.25.58:323][130]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.25.58:323][130]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.25.58:885][147]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array tabLettre of length 4!
+[2016.12.10-12.25.58:885][147]LogScriptCore:Warning: 
+[2016.12.10-12.25.59:223][158]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array tabLettre of length 4!
+[2016.12.10-12.25.59:223][158]LogScriptCore:Warning: 
+[2016.12.10-12.26.00:047][184]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.26.00:243][184]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.26.24:635][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.26.24:635][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.10-12.26.24:635][236]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:26:24 PM)
+[2016.12.10-12.26.24:636][236]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.26.24:680][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044050s)
+[2016.12.10-12.26.24:682][236]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.26.24:683][236]LogPlayLevel: PIE: World Init took: (0.003300s)
+[2016.12.10-12.26.24:684][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.048113s)
+[2016.12.10-12.26.24:747][236]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-12.26.24:894][236]LogInit: FAudioDevice initialized.
+[2016.12.10-12.26.24:978][236]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.26.24:989][236]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.26.24
+[2016.12.10-12.26.24:990][236]LogWorld: Bringing up level for play took: 0.009520
+[2016.12.10-12.26.24:992][236]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.26.24:993][236]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.26.24:993][236]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.26.24:996][236]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.26.24:996][236]LogScriptCore:Warning: 
+[2016.12.10-12.26.24:997][236]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.26.25:016][236]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.367
+[2016.12.10-12.26.25:016][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.26.28:371][335]LogBlueprintUserMessages: [S_C_0] S
+[2016.12.10-12.26.30:478][400]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array tabLettre of length 1!
+[2016.12.10-12.26.30:478][400]LogScriptCore:Warning: 
+[2016.12.10-12.26.31:106][420]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [1/0]!
+[2016.12.10-12.26.31:106][420]LogScriptCore:Warning: 
+[2016.12.10-12.26.31:106][420]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.33:837][506]LogBlueprintUserMessages: [S_C_1] S
+[2016.12.10-12.26.33:837][506]LogBlueprintUserMessages: [S_C_1] S
+[2016.12.10-12.26.34:707][534]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [2/1]!
+[2016.12.10-12.26.34:707][534]LogScriptCore:Warning: 
+[2016.12.10-12.26.34:707][534]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.34:707][534]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.37:368][621]LogBlueprintUserMessages: [S_C_2] S
+[2016.12.10-12.26.37:368][621]LogBlueprintUserMessages: [S_C_2] S
+[2016.12.10-12.26.37:368][621]LogBlueprintUserMessages: [S_C_2] S
+[2016.12.10-12.26.37:832][636]LogScriptCore:Warning: Script Msg: Attempted to access index 3 from array tabLettre of length 3!
+[2016.12.10-12.26.37:832][636]LogScriptCore:Warning: 
+[2016.12.10-12.26.39:644][693]LogScriptCore:Warning: Script Msg: Attempted to access index 3 from array tabLettre of length 3!
+[2016.12.10-12.26.39:644][693]LogScriptCore:Warning: 
+[2016.12.10-12.26.40:768][729]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.40:768][729]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.41:964][767]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.26.42:466][783]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.26.42:970][799]LogBlueprintUserMessages: [S_C_3] S
+[2016.12.10-12.26.42:970][799]LogBlueprintUserMessages: [S_C_3] S
+[2016.12.10-12.26.42:970][799]LogBlueprintUserMessages: [S_C_3] S
+[2016.12.10-12.26.44:053][833]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.44:053][833]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.44:311][841]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.26.45:553][880]LogBlueprintUserMessages: [S_C_4] S
+[2016.12.10-12.26.45:554][880]LogBlueprintUserMessages: [S_C_4] S
+[2016.12.10-12.26.45:554][880]LogBlueprintUserMessages: [S_C_4] S
+[2016.12.10-12.26.46:987][924]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [3/2]!
+[2016.12.10-12.26.46:987][924]LogScriptCore:Warning: 
+[2016.12.10-12.26.46:987][924]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.46:987][924]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.46:987][924]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.47:623][944]LogBlueprintUserMessages: [S_C_5] S
+[2016.12.10-12.26.47:623][944]LogBlueprintUserMessages: [S_C_5] S
+[2016.12.10-12.26.47:623][944]LogBlueprintUserMessages: [S_C_5] S
+[2016.12.10-12.26.47:623][944]LogBlueprintUserMessages: [S_C_5] S
+[2016.12.10-12.26.48:291][965]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array tabLettre of length 4!
+[2016.12.10-12.26.48:291][965]LogScriptCore:Warning: 
+[2016.12.10-12.26.49:116][991]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.49:116][991]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.49:116][991]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.49:591][  6]LogBlueprintUserMessages: [S_C_6] S
+[2016.12.10-12.26.49:591][  6]LogBlueprintUserMessages: [S_C_6] S
+[2016.12.10-12.26.49:591][  6]LogBlueprintUserMessages: [S_C_6] S
+[2016.12.10-12.26.49:591][  6]LogBlueprintUserMessages: [S_C_6] S
+[2016.12.10-12.26.50:324][ 29]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array tabLettre of length 4!
+[2016.12.10-12.26.50:324][ 29]LogScriptCore:Warning: 
+[2016.12.10-12.26.51:885][ 78]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array tabLettre of length 4!
+[2016.12.10-12.26.51:885][ 78]LogScriptCore:Warning: 
+[2016.12.10-12.26.52:900][110]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.52:900][110]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.52:900][110]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.26.56:349][220]LogBlueprintUserMessages: [S_C_7] S
+[2016.12.10-12.26.56:350][220]LogBlueprintUserMessages: [S_C_7] S
+[2016.12.10-12.26.56:350][220]LogBlueprintUserMessages: [S_C_7] S
+[2016.12.10-12.26.56:350][220]LogBlueprintUserMessages: [S_C_7] S
+[2016.12.10-12.26.57:665][261]LogBlueprintUserMessages: [E_C_0] S
+[2016.12.10-12.26.57:665][261]LogBlueprintUserMessages: [E_C_0] S
+[2016.12.10-12.26.57:665][261]LogBlueprintUserMessages: [E_C_0] S
+[2016.12.10-12.26.57:665][261]LogBlueprintUserMessages: [E_C_0] S
+[2016.12.10-12.26.57:665][261]LogBlueprintUserMessages: [E_C_0] E
+[2016.12.10-12.26.59:221][309]LogBlueprintUserMessages: [T_C_0] S
+[2016.12.10-12.26.59:221][309]LogBlueprintUserMessages: [T_C_0] S
+[2016.12.10-12.26.59:221][309]LogBlueprintUserMessages: [T_C_0] S
+[2016.12.10-12.26.59:221][309]LogBlueprintUserMessages: [T_C_0] S
+[2016.12.10-12.26.59:221][309]LogBlueprintUserMessages: [T_C_0] E
+[2016.12.10-12.26.59:221][309]LogBlueprintUserMessages: [T_C_0] T
+[2016.12.10-12.26.59:982][332]LogBlueprintUserMessages: [T_C_1] S
+[2016.12.10-12.26.59:982][332]LogBlueprintUserMessages: [T_C_1] S
+[2016.12.10-12.26.59:982][332]LogBlueprintUserMessages: [T_C_1] S
+[2016.12.10-12.26.59:982][332]LogBlueprintUserMessages: [T_C_1] S
+[2016.12.10-12.26.59:982][332]LogBlueprintUserMessages: [T_C_1] E
+[2016.12.10-12.26.59:982][332]LogBlueprintUserMessages: [T_C_1] T
+[2016.12.10-12.26.59:982][332]LogBlueprintUserMessages: [T_C_1] T
+[2016.12.10-12.27.02:597][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.02:597][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.02:597][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.02:597][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.27.02:597][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.27.02:597][415]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.27.04:102][463]LogScriptCore:Warning: Script Msg: Attempted to access index 6 from array tabLettre of length 6!
+[2016.12.10-12.27.04:102][463]LogScriptCore:Warning: 
+[2016.12.10-12.27.05:146][496]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.05:146][496]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.05:146][496]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.05:147][496]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.27.05:147][496]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.27.06:228][530]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [5/4]!
+[2016.12.10-12.27.06:228][530]LogScriptCore:Warning: 
+[2016.12.10-12.27.06:228][530]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.06:229][530]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.06:229][530]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.06:229][530]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.27.06:229][530]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.27.06:659][544]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.06:659][544]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.27.06:659][544]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.27.06:659][544]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.27.06:916][552]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.27.07:143][559]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.27.07:301][564]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.27.07:465][569]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.27.07:661][575]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.27.07:816][580]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.27.07:982][585]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.27.08:148][590]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.27.10:658][669]LogBlueprintUserMessages: [S_C_8] S
+[2016.12.10-12.27.10:658][669]LogBlueprintUserMessages: [S_C_8] S
+[2016.12.10-12.27.10:659][669]LogBlueprintUserMessages: [S_C_8] E
+[2016.12.10-12.27.10:659][669]LogBlueprintUserMessages: [S_C_8] T
+[2016.12.10-12.27.10:659][669]LogBlueprintUserMessages: [S_C_8] S
+[2016.12.10-12.27.11:270][688]LogBlueprintUserMessages: [S_C_9] S
+[2016.12.10-12.27.11:270][688]LogBlueprintUserMessages: [S_C_9] S
+[2016.12.10-12.27.11:270][688]LogBlueprintUserMessages: [S_C_9] E
+[2016.12.10-12.27.11:270][688]LogBlueprintUserMessages: [S_C_9] T
+[2016.12.10-12.27.11:270][688]LogBlueprintUserMessages: [S_C_9] S
+[2016.12.10-12.27.11:270][688]LogBlueprintUserMessages: [S_C_9] S
+[2016.12.10-12.27.11:802][704]LogBlueprintUserMessages: [S_C_10] S
+[2016.12.10-12.27.11:802][704]LogBlueprintUserMessages: [S_C_10] S
+[2016.12.10-12.27.11:802][704]LogBlueprintUserMessages: [S_C_10] E
+[2016.12.10-12.27.11:802][704]LogBlueprintUserMessages: [S_C_10] T
+[2016.12.10-12.27.11:802][704]LogBlueprintUserMessages: [S_C_10] S
+[2016.12.10-12.27.11:802][704]LogBlueprintUserMessages: [S_C_10] S
+[2016.12.10-12.27.11:802][704]LogBlueprintUserMessages: [S_C_10] S
+[2016.12.10-12.27.11:872][706]LogBlueprintUserMessages: [S_C_11] S
+[2016.12.10-12.27.11:872][706]LogBlueprintUserMessages: [S_C_11] S
+[2016.12.10-12.27.11:872][706]LogBlueprintUserMessages: [S_C_11] E
+[2016.12.10-12.27.11:872][706]LogBlueprintUserMessages: [S_C_11] T
+[2016.12.10-12.27.11:872][706]LogBlueprintUserMessages: [S_C_11] S
+[2016.12.10-12.27.11:872][706]LogBlueprintUserMessages: [S_C_11] S
+[2016.12.10-12.27.11:872][706]LogBlueprintUserMessages: [S_C_11] S
+[2016.12.10-12.27.11:872][706]LogBlueprintUserMessages: [S_C_11] S
+[2016.12.10-12.27.15:065][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.27.15:257][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.27.22:926][181]LogRenderer: Reallocating scene render targets to support 1272x688 (Frame:24210).
+[2016.12.10-12.28.17:045][359]BlueprintLog: New page: Compile S
+[2016.12.10-12.28.20:136][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.28.20:136][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.10-12.28.20:136][442]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:28:20 PM)
+[2016.12.10-12.28.20:136][442]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.28.20:184][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048142s)
+[2016.12.10-12.28.20:189][442]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.28.20:189][442]LogPlayLevel: PIE: World Init took: (0.005063s)
+[2016.12.10-12.28.20:190][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.053810s)
+[2016.12.10-12.28.20:248][442]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-12.28.20:394][442]LogInit: FAudioDevice initialized.
+[2016.12.10-12.28.20:442][442]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.28.20:453][442]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.28.20
+[2016.12.10-12.28.20:454][442]LogWorld: Bringing up level for play took: 0.009611
+[2016.12.10-12.28.20:456][442]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.28.20:456][442]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.28.20:456][442]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.28.20:460][442]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.28.20:460][442]LogScriptCore:Warning: 
+[2016.12.10-12.28.20:460][442]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.28.20:460][442]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.188
+[2016.12.10-12.28.20:461][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.28.27:937][662]LogBlueprintUserMessages: [T_C_0] T
+[2016.12.10-12.28.29:749][749]LogBlueprintUserMessages: [S_C_0] T
+[2016.12.10-12.28.29:749][749]LogBlueprintUserMessages: [S_C_0] S
+[2016.12.10-12.28.30:785][800]LogBlueprintUserMessages: [E_C_0] T
+[2016.12.10-12.28.30:785][800]LogBlueprintUserMessages: [E_C_0] S
+[2016.12.10-12.28.30:785][800]LogBlueprintUserMessages: [E_C_0] E
+[2016.12.10-12.28.35:041][ 11]LogBlueprintUserMessages: [T_C_1] T
+[2016.12.10-12.28.35:041][ 11]LogBlueprintUserMessages: [T_C_1] S
+[2016.12.10-12.28.35:041][ 11]LogBlueprintUserMessages: [T_C_1] E
+[2016.12.10-12.28.35:041][ 11]LogBlueprintUserMessages: [T_C_1] T
+[2016.12.10-12.28.38:344][179]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.28.38:344][179]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.28.38:344][179]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.28.42:416][388]LogScriptCore:Warning: Script Msg: Attempted to remove an item from an invalid index from array tabLettre [3/2]!
+[2016.12.10-12.28.42:416][388]LogScriptCore:Warning: 
+[2016.12.10-12.28.42:416][388]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.28.42:416][388]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.28.42:416][388]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.28.45:212][531]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.28.45:212][531]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.28.47:664][653]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array tabLettre of length 2!
+[2016.12.10-12.28.47:664][653]LogScriptCore:Warning: 
+[2016.12.10-12.28.48:984][721]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.28.49:645][755]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.50:132][779]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.50:423][793]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.50:638][804]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.50:874][816]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.51:075][826]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.51:296][837]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.51:511][848]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.51:749][860]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.51:945][870]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.52:146][880]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.52:346][890]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.52:545][900]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.28.53:866][965]LogBlueprintUserMessages: [E_C_2] E
+[2016.12.10-12.28.53:866][965]LogBlueprintUserMessages: [E_C_2] E
+[2016.12.10-12.28.54:449][993]LogBlueprintUserMessages: [E_C_1] E
+[2016.12.10-12.28.54:449][993]LogBlueprintUserMessages: [E_C_1] E
+[2016.12.10-12.28.54:449][993]LogBlueprintUserMessages: [E_C_1] E
+[2016.12.10-12.28.55:097][ 25]LogBlueprintUserMessages: [T_C_2] E
+[2016.12.10-12.28.55:097][ 25]LogBlueprintUserMessages: [T_C_2] E
+[2016.12.10-12.28.55:097][ 25]LogBlueprintUserMessages: [T_C_2] E
+[2016.12.10-12.28.55:097][ 25]LogBlueprintUserMessages: [T_C_2] T
+[2016.12.10-12.28.55:781][ 59]LogBlueprintUserMessages: [T_C_3] E
+[2016.12.10-12.28.55:781][ 59]LogBlueprintUserMessages: [T_C_3] E
+[2016.12.10-12.28.55:781][ 59]LogBlueprintUserMessages: [T_C_3] E
+[2016.12.10-12.28.55:781][ 59]LogBlueprintUserMessages: [T_C_3] T
+[2016.12.10-12.28.55:781][ 59]LogBlueprintUserMessages: [T_C_3] T
+[2016.12.10-12.28.58:535][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.28.58:638][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.31.51:127][341]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.12.10-12.31.53:550][375]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.31.53:551][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.12.10-12.31.53:551][375]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:31:53 PM)
+[2016.12.10-12.31.53:551][375]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.31.53:606][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054472s)
+[2016.12.10-12.31.53:609][375]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.31.53:610][375]LogPlayLevel: PIE: World Init took: (0.004102s)
+[2016.12.10-12.31.53:610][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.059262s)
+[2016.12.10-12.31.53:670][375]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-12.31.53:812][375]LogInit: FAudioDevice initialized.
+[2016.12.10-12.31.53:898][375]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.31.53:911][375]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.31.53
+[2016.12.10-12.31.53:912][375]LogWorld: Bringing up level for play took: 0.010181
+[2016.12.10-12.31.53:914][375]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.31.53:914][375]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.31.53:914][375]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.31.53:917][375]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.31.53:917][375]LogScriptCore:Warning: 
+[2016.12.10-12.31.53:918][375]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.31.53:936][375]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.287
+[2016.12.10-12.31.53:936][375]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.31.57:468][492]LogBlueprintUserMessages: [T_C_0] T
+[2016.12.10-12.32.00:400][593]LogBlueprintUserMessages: [T_C_1] T
+[2016.12.10-12.32.00:400][593]LogBlueprintUserMessages: [T_C_1] T
+[2016.12.10-12.32.01:558][633]LogBlueprintUserMessages: [E_C_0] T
+[2016.12.10-12.32.01:558][633]LogBlueprintUserMessages: [E_C_0] T
+[2016.12.10-12.32.01:558][633]LogBlueprintUserMessages: [E_C_0] E
+[2016.12.10-12.32.03:585][703]LogBlueprintUserMessages: [S_C_0] T
+[2016.12.10-12.32.03:585][703]LogBlueprintUserMessages: [S_C_0] T
+[2016.12.10-12.32.03:585][703]LogBlueprintUserMessages: [S_C_0] E
+[2016.12.10-12.32.03:585][703]LogBlueprintUserMessages: [S_C_0] S
+[2016.12.10-12.32.04:338][729]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.32.04:338][729]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.32.04:338][729]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.32.05:104][756]LogBlueprintUserMessages: [S_C_1] T
+[2016.12.10-12.32.05:104][756]LogBlueprintUserMessages: [S_C_1] T
+[2016.12.10-12.32.05:104][756]LogBlueprintUserMessages: [S_C_1] E
+[2016.12.10-12.32.05:104][756]LogBlueprintUserMessages: [S_C_1] S
+[2016.12.10-12.32.06:098][791]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.32.06:098][791]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.32.06:098][791]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.32.06:613][809]LogScriptCore:Warning: Script Msg: Attempted to access index 3 from array tabLettre of length 3!
+[2016.12.10-12.32.06:613][809]LogScriptCore:Warning: 
+[2016.12.10-12.32.07:176][829]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.32.07:176][829]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.32.08:578][878]LogScriptCore:Warning: Script Msg: Attempted to access index 2 from array tabLettre of length 2!
+[2016.12.10-12.32.08:578][878]LogScriptCore:Warning: 
+[2016.12.10-12.32.09:094][896]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.32.11:450][978]LogBlueprintUserMessages: [T_C_3] T
+[2016.12.10-12.32.11:862][992]LogBlueprintUserMessages: [S_C_2] T
+[2016.12.10-12.32.11:862][992]LogBlueprintUserMessages: [S_C_2] S
+[2016.12.10-12.32.12:066][999]LogBlueprintUserMessages: [E_C_1] T
+[2016.12.10-12.32.12:066][999]LogBlueprintUserMessages: [E_C_1] S
+[2016.12.10-12.32.12:066][999]LogBlueprintUserMessages: [E_C_1] E
+[2016.12.10-12.32.12:350][  9]LogBlueprintUserMessages: [T_C_2] T
+[2016.12.10-12.32.12:350][  9]LogBlueprintUserMessages: [T_C_2] S
+[2016.12.10-12.32.12:350][  9]LogBlueprintUserMessages: [T_C_2] E
+[2016.12.10-12.32.12:350][  9]LogBlueprintUserMessages: [T_C_2] T
+[2016.12.10-12.32.13:154][ 37]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.32.13:154][ 37]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.32.13:154][ 37]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] T
+[2016.12.10-12.32.13:414][ 46]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.32.13:414][ 46]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] E
+[2016.12.10-12.32.13:669][ 55]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] S
+[2016.12.10-12.32.14:013][ 67]LogScriptCore:Warning: Script Msg: Attempted to access index 1 from array tabLettre of length 1!
+[2016.12.10-12.32.14:013][ 67]LogScriptCore:Warning: 
+[2016.12.10-12.32.15:820][130]LogBlueprintUserMessages: [S_C_3] S
+[2016.12.10-12.32.16:145][141]LogBlueprintUserMessages: [T_C_4] S
+[2016.12.10-12.32.16:145][141]LogBlueprintUserMessages: [T_C_4] T
+[2016.12.10-12.32.16:816][164]LogBlueprintUserMessages: [T_C_5] S
+[2016.12.10-12.32.16:817][164]LogBlueprintUserMessages: [T_C_5] T
+[2016.12.10-12.32.16:817][164]LogBlueprintUserMessages: [T_C_5] T
+[2016.12.10-12.32.16:960][169]LogBlueprintUserMessages: [E_C_2] S
+[2016.12.10-12.32.16:960][169]LogBlueprintUserMessages: [E_C_2] T
+[2016.12.10-12.32.16:960][169]LogBlueprintUserMessages: [E_C_2] T
+[2016.12.10-12.32.16:960][169]LogBlueprintUserMessages: [E_C_2] E
+[2016.12.10-12.32.17:721][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.32.17:902][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.32.26:490][545]BlueprintLog: New page: Compile FirstPersonCharacter
+[2016.12.10-12.32.55:674][191]LogSavePackage: Save=4140.01ms
+[2016.12.10-12.32.55:674][191]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/FirstPersonExampleMap04604F1A492685EB8AD60EB82C2268DD.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2016.12.10-12.32.55:682][191]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2016.12.10-12.32.55:737][191]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 4.394
+[2016.12.10-12.32.56:029][191]LogSavePackage: Save=244.01ms
+[2016.12.10-12.32.56:029][191]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/FirstPersonCharacter060F89764EF2FDD2E7670D8828AAE266.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2016.12.10-12.32.56:034][191]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2016.12.10-12.32.56:072][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/A" FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/A.uasset" SILENT=true
+[2016.12.10-12.32.56:173][191]LogSavePackage: Save=84.00ms
+[2016.12.10-12.32.56:173][191]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/AC37E632C434747F3E5ED88B5E8385D4B.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/A.uasset'
+[2016.12.10-12.32.56:177][191]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/A.uasset
+[2016.12.10-12.32.56:214][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/E" FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/E.uasset" SILENT=true
+[2016.12.10-12.32.56:317][191]LogSavePackage: Save=86.70ms
+[2016.12.10-12.32.56:317][191]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/EC61532954F5651594B9437A5FE403A0F.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/E.uasset'
+[2016.12.10-12.32.56:322][191]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/E.uasset
+[2016.12.10-12.32.56:360][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/S" FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/S.uasset" SILENT=true
+[2016.12.10-12.32.56:468][191]LogSavePackage: Save=89.73ms
+[2016.12.10-12.32.56:468][191]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/SBDB05A00476978598849C8A3CA075E55.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/S.uasset'
+[2016.12.10-12.32.56:488][191]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/S.uasset
+[2016.12.10-12.32.56:527][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/T" FILE="../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/T.uasset" SILENT=true
+[2016.12.10-12.32.56:632][191]LogSavePackage: Save=87.94ms
+[2016.12.10-12.32.56:632][191]LogSavePackage: Moving '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Saved/TF56680404BCEF61896AA78A5E8374DC2.tmp' to '../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/T.uasset'
+[2016.12.10-12.32.56:636][191]LogSavePackage:Display: Finished SavePackage ../../../../../../[DATA]/[FOURRE TOUT]/Unreal Projects/DEMO/Content/Blueprints/T.uasset
+[2016.12.10-12.32.57:647][223]BlueprintLog: New page: Compile T
+[2016.12.10-12.33.10:362][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.33.10:362][515]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.10-12.33.10:362][515]LogPlayLevel: [PlayLevel] Compiling A before play...
+[2016.12.10-12.33.10:614][515]LogPlayLevel: [PlayLevel] Compiling E before play...
+[2016.12.10-12.33.10:920][515]LogPlayLevel: [PlayLevel] Compiling S before play...
+[2016.12.10-12.33.11:239][515]LogPlayLevel: PlayLevel: Blueprint regeneration took 875 ms (3 blueprints)
+[2016.12.10-12.33.11:239][515]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:33:11 PM)
+[2016.12.10-12.33.11:239][515]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.33.11:282][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042702s)
+[2016.12.10-12.33.11:284][515]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.33.11:285][515]LogPlayLevel: PIE: World Init took: (0.003275s)
+[2016.12.10-12.33.11:286][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.046641s)
+[2016.12.10-12.33.11:345][515]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-12.33.11:494][515]LogInit: FAudioDevice initialized.
+[2016.12.10-12.33.11:557][515]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.33.11:570][515]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.33.11
+[2016.12.10-12.33.11:571][515]LogWorld: Bringing up level for play took: 0.009799
+[2016.12.10-12.33.11:573][515]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.33.11:573][515]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.33.11:573][515]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.33.11:577][515]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.33.11:577][515]LogScriptCore:Warning: 
+[2016.12.10-12.33.11:577][515]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.33.11:585][515]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.936
+[2016.12.10-12.33.11:586][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.33.30:150][954]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1390.404 Y=-142.734 Z=228.671] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.44:795][311]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=1380.823 Y=926.566 Z=223.242] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.45:130][319]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=1387.947 Y=906.809 Z=217.320] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.57:626][623]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2028.168 Y=-869.001 Z=226.902] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.57:839][628]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2028.973 Y=-922.305 Z=185.385] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.58:011][632]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1995.103 Y=-937.243 Z=225.385] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.58:178][636]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2029.721 Y=-937.530 Z=192.349] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.58:309][639]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2028.285 Y=-936.432 Z=191.422] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.58:437][642]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1994.864 Y=-936.468 Z=225.970] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.58:566][645]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1994.928 Y=-937.090 Z=226.581] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.58:695][648]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1994.828 Y=-936.986 Z=226.410] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.59:109][658]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-1994.413 Y=-963.643 Z=277.879] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.59:278][662]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2024.177 Y=-964.801 Z=315.204] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.59:446][666]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2024.134 Y=-964.753 Z=315.204] for [FirstPersonProjectile_C]
+[2016.12.10-12.33.59:612][670]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2023.982 Y=-964.583 Z=315.204] for [FirstPersonProjectile_C]
+[2016.12.10-12.34.11:959][976]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Hello
+[2016.12.10-12.34.36:602][582]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=1429.860 Y=833.636 Z=213.691] for [FirstPersonProjectile_C]
+[2016.12.10-12.34.36:815][587]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=1399.940 Y=806.229 Z=196.755] for [FirstPersonProjectile_C]
+[2016.12.10-12.34.47:762][859]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-951.851 Y=-1386.185 Z=279.102] for [FirstPersonProjectile_C]
+[2016.12.10-12.34.52:012][962]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2076.437 Y=-351.402 Z=301.047] for [FirstPersonProjectile_C]
+[2016.12.10-12.34.52:225][967]LogSpawn:Warning: SpawnActor failed because of collision at the spawn location [X=-2039.603 Y=-220.787 Z=297.821] for [FirstPersonProjectile_C]
+[2016.12.10-12.35.04:726][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.35.04:910][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.36.04:826][137]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.36.04:826][137]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.12.10-12.36.04:826][137]LogPlayLevel: [PlayLevel] Compiling E before play...
+[2016.12.10-12.36.05:723][137]LogPlayLevel: PlayLevel: Blueprint regeneration took 897 ms (1 blueprints)
+[2016.12.10-12.36.05:723][137]PIE: New page: PIE session: FirstPersonExampleMap (Dec 10, 2016, 2:36:05 PM)
+[2016.12.10-12.36.05:723][137]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2016.12.10-12.36.05:786][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061587s)
+[2016.12.10-12.36.05:788][137]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2016.12.10-12.36.05:788][137]LogPlayLevel: PIE: World Init took: (0.002143s)
+[2016.12.10-12.36.05:789][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.064371s)
+[2016.12.10-12.36.05:841][137]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.12.10-12.36.05:991][137]LogInit: FAudioDevice initialized.
+[2016.12.10-12.36.06:047][137]LogWorld: Game class is 'FirstPersonGameMode_C'
+[2016.12.10-12.36.06:059][137]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2016.12.10-13.36.06
+[2016.12.10-12.36.06:060][137]LogWorld: Bringing up level for play took: 0.009931
+[2016.12.10-12.36.06:062][137]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.36.06:062][137]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.12.10-12.36.06:062][137]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.36.06:066][137]LogScriptCore:Warning: Script Msg: Attempted to access index 4 from array CallFunc_GetCharacterArrayFromString_ReturnValue of length 4!
+[2016.12.10-12.36.06:066][137]LogScriptCore:Warning: 
+[2016.12.10-12.36.06:067][137]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.12.10-12.36.06:073][137]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.426
+[2016.12.10-12.36.06:074][137]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.36.11:344][249]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.36.11:527][249]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2016.12.10-12.36.24:183][635]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2016.12.10-12.36.28:319][635]LogCrashTracker: 
+
+
+[2016.12.10-12.36.28:319][635]LogCrashTracker: 
+
+
+[2016.12.10-12.36.28:319][635]LogWindows:Error: === Critical error: ===
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 
+[2016.12.10-12.36.28:320][635]LogWindows:Error: Assertion failed: SuccessfullyMeasuredSlice [File:D:\Build\++UE4+Release-4.13+Compile\Sync\Engine\Source\Runtime\Slate\Private\Framework\Text\TextLayout.cpp] [Line: 166] 
+[2016.12.10-12.36.28:320][635]LogWindows:Error: Failed to measure a slice of text!
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 	Debug Source: SSpinBox.h(152)
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 	Anonymized Text: 
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 	Start Index: 0
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 	End Index: 4
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 	Start Run Index: 0
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 	Line Runs:
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 		[0] - Range: {0, 0}
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 
+[2016.12.10-12.36.28:320][635]LogWindows:Error: 
+[2016.12.10-12.36.28:320][635]LogWindows:Error: KERNELBASE.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-Core.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-Core.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-Core.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:320][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-SlateCore.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor-Slate.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor.exe
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor.exe
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor.exe
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor.exe
+[2016.12.10-12.36.28:321][635]LogWindows:Error: UE4Editor.exe
+[2016.12.10-12.36.28:321][635]LogWindows:Error: KERNEL32.DLL
+[2016.12.10-12.36.28:321][635]LogWindows:Error: ntdll.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: ntdll.dll
+[2016.12.10-12.36.28:321][635]LogWindows:Error: 
+[2016.12.10-12.36.28:385][635]LogExit: Executing StaticShutdownAfterError
+[2016.12.10-12.36.28:396][635]LogWindows: FPlatformMisc::RequestExit(1)
+[2016.12.10-12.36.28:408][635]Log file closed, 12/10/16 13:36:28
