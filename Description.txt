@@ -31,3 +31,6 @@ part of the project :
 
 Link to access to the board: 
 https://tristanmat.framaboard.org/?controller=BoardViewController&action=readonly&token=5eacbae93b7a9860ebb1f1163b3b3b26d083a877e4f282a68a0563f94d4c
+
+Link to access to the drive:
+https://drive.google.com/drive/u/2/folders/0B8dHLJLbsMx2WWc5cmdCcl9PNHM
