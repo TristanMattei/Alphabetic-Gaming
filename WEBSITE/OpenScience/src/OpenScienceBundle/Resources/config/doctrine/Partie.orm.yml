@@ -1,0 +1,61 @@
+OpenScienceBundle\Entity\Partie:
+    type: entity
+    table: null
+    repositoryClass: OpenScienceBundle\Repository\PartieRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        fkUser:
+            type: integer
+        fkwa:
+            type: integer
+        waLetters:
+            type: string
+            length: 255
+            nullable: true
+        waOkNok:
+            type: boolean
+            nullable: true
+        fkwb:
+            type: integer
+        wbLetters:
+            type: string
+            length: 255
+            nullable: true
+        wbOkNok:
+            type: boolean
+            nullable: true
+        fkwc:
+            type: integer
+        wcLetters:
+            type: string
+            length: 255
+            nullable: true
+        wcOkNok:
+            type: boolean
+            nullable: true
+        fkwd:
+            type: integer
+        wdLetters:
+            type: string
+            length: 255
+            nullable: true
+        wdOkNok:
+            type: boolean
+            nullable: true
+        fkwe:
+            type: integer
+        weletters:
+            type: string
+            length: 255
+            nullable: true
+        weOkNok:
+            type: boolean
+            nullable: true
+        date:
+            type:datetime
+    lifecycleCallbacks: {  }

@@ -1,0 +1,19 @@
+{% extends "::base.html.twig" %}
+
+{% block title %}OpenScienceBundle:EndGame:third{% endblock %}
+
+{% block body %}
+<h1>Welcome to the EndGame:third page</h1>
+<br><br>
+<h3>Result ! </h3>
+<br>
+<p>your word : {{ sol[0] }}{% if(sol[0] == mots[0]) %} == {% else %} != {% endif %} {{ mots[0] }} : the word selected -- {% if(sol[0] != mots[0]) %} IT'S WRONG {% else %} IT'S CORRECT {% endif %}<p>
+<br>
+<p>your word : {{ sol[1] }}{% if(sol[1] == mots[1]) %} == {% else %} != {% endif %} {{ mots[1] }} : the word selected -- {% if(sol[1] != mots[1]) %} IT'S WRONG {% else %} IT'S CORRECT {% endif %}<p>
+<br>
+<p>your word : {{ sol[2] }}{% if(sol[2] == mots[2]) %} == {% else %} != {% endif %} {{ mots[2] }} : the word selected -- {% if(sol[2] != mots[2]) %} IT'S WRONG {% else %} IT'S CORRECT {% endif %}<p>
+<br>
+<p>your word : {{ sol[3] }}{% if(sol[3] == mots[3]) %} == {% else %} != {% endif %} {{ mots[3] }} : the word selected -- {% if(sol[3] != mots[3]) %} IT'S WRONG {% else %} IT'S CORRECT {% endif %}<p>
+<br>
+<p>your word : {{ sol[4] }}{% if(sol[4] == mots[4]) %} == {% else %} != {% endif %} {{ mots[4] }} : the word selected -- {% if(sol[4] != mots[4]) %} IT'S WRONG {% else %} IT'S CORRECT {% endif %}<p>
+{% endblock %}
